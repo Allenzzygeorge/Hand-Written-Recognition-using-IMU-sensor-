@@ -6,6 +6,6 @@ Arduino Nano 33 BLE
 
 
 
-Project Created by,
+#Authors
 Allen C George (allenc@iisc.ac.in)
 Ranwin kumar (ranwinkumar@iisc.ac.in)
