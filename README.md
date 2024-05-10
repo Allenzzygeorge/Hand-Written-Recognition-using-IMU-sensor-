@@ -8,6 +8,7 @@ Arduino Nano 33 BLE
 
 # Software Used:
 Arduino IDE for arduino communication
+
 Google Colab or Jupyter notebook for Model training
 
 ![our_model](https://github.com/Allenzzygeorge/Hand-Written-Recognition-using-IMU-sensor-/assets/148372527/42cea844-ba06-4b42-a42a-e0f17bf18196)
