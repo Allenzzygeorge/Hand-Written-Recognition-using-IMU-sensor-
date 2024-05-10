@@ -4,7 +4,7 @@ Developing a handwritten recognition system using Arduino BLE33 IMU sensors to c
 # Harware used:
 Arduino Nano 33 BLE
 
-
+![Example Image](pictures and videos/download.png)
 
 # Authors
 Allen C George (allenc@iisc.ac.in)
