@@ -20,7 +20,13 @@ Google Colab or Jupyter notebook for Model training
 
 2. Validate the IMU sensor data, if individual datasets are taken verify each json files and combine the entire files into a single json file
 
-3. 
+3. If you are using the dataset that we created navigate to datasets folder in that 'individual_letters' contains the datasets for individual letters and 'full_data' contains the combined valid datasets use the 'complete_data_combined.json' for training the model if you are not creating your own custom dataset.
+
+4. To train the model check for codes in the 'python_codes' folder, to use a local server to train the model use jupyter notebook code with name 'Model_JN.ipynb', to train the model in cloud like google colab use the 'Model_GC.ipynb' for train the model and generate a tensorflow lite model for Microcontrollers.
+
+5. Take the output 'magic_wand_model_data.cpp' and from the training part paste it in the arduino IDE part.
+
+6. Run the 'arduino_code/Hand_written_imu'with the replaced 'magic_wand_model_data.cpp' part and do real time testing of you model. 
 
 # Authors
 Allen C George (allenc@iisc.ac.in)
