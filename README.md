@@ -28,6 +28,10 @@ Google Colab or Jupyter notebook for Model training
 
 6. Run the 'arduino_code/Hand_written_imu'with the replaced 'magic_wand_model_data.cpp' part and do real time testing of you model. 
 
+
+https://github.com/Allenzzygeorge/Hand-Written-Recognition-using-IMU-sensor-/assets/148372527/0b9a1569-d9f9-4a05-8740-adc1e758dcc4
+
+
 # Authors
 Allen C George (allenc@iisc.ac.in)
 Ranwin kumar (ranwinkumar@iisc.ac.in)
